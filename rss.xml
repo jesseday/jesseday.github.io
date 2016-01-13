@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Chanandler's Kitchen</title>
+        <title>CKitchen</title>
         <link></link>
-        <description>RSS feed for Chanandler's Kitchen</description>
+        <description>RSS feed for CKitchen</description>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
-                    <item>
-                <title>First post</title>
-                <description><![CDATA[<p>Let's make some content</p>
-]]></description>
-                <link>/test/2016/01/12/first-post</link>
-                <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-                <guid>/test/2016/01/12/first-post</guid>
-            </item>
             </channel>
 </rss>
